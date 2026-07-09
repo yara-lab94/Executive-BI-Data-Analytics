@@ -7,11 +7,24 @@ A dynamic, production-ready Business Intelligence (BI) and Data Analytics dashbo
 
 ---
 
-## 🌐 Dual-Language Support / دعم لغوي مزدوج
-The platform features a seamless language toggle in the sidebar, instantly adapting the entire system architecture, text alignment, and layout configuration:
-تتميز اللوحة بدعم كامل ومزدوج لتبديل لغة الواجهة ديناميكياً من الشريط الجانبي، حيث تتغير محاذاة الهيكل البصري واتجاه النصوص بالكامل:
-* **Arabic (RTL)** with aligned analytical insights. / **اللغة العربية (يمين إلى اليسار)** مع محاذاة دقيقة لصناديق استخلاص الدلالات.
-* **English (LTR)** with standard operational layouts. / **اللغة الإنجليزية (يسار إلى اليمين)** مع التنسيقات التشغيلية القياسية.
+## 🌐 Links & Live Demo / الروابط والتشغيل الحي
+* **Live Demo:** [Click here to explore the live dashboard](https://executive-bi-data-analytics-nsz4u9sz24rve9rb3mh9wi.streamlit.app/)
+* **Dual-Language Support:** Features a seamless language toggle in the sidebar, instantly adapting the entire system architecture, text alignment (RTL/LTR), and layout configuration.
+* **دعم لغوي مزدوج:** تتميز اللوحة بدعم كامل ومزدوج لتبديل لغة الواجهة ديناميكياً من الشريط الجانبي، حيث تتغير محاذاة الهيكل البصري واتجاه النصوص بالكامل (من اليمين لليسار للعربية ومن اليسار لليمين للإنجليزية).
+
+---
+
+## 🚀 How to Test the Live Demo / كيف تجرّب المنصة حية
+
+To experience the dynamic capabilities of this schema-agnostic platform, follow these simple steps:
+لتجربة القدرات الديناميكية للمنصة، اتبع الخطوات البسيطة التالية:
+
+1. **Download a Sample Dataset:** Click on any of the sample `.csv` files provided in this repository above (e.g., `perfect_sales_data.csv`, `retail_sales.csv`, or `supermarket_sales.csv`) and download it to your computer.
+   (**تحميل ملف تجريبي:** اضغط على أي من ملفات البيانات التجريبية بصيغة `.csv` المرفوعة في هذا المستودع في الأعلى وحملها على جهازك).
+2. **Open the Live App:** Open the **[Live Demo](https://executive-bi-data-analytics-nsz4u9sz24rve9rb3mh9wi.streamlit.app/)** link.
+   (**افتح المنصة حية:** اضغط على رابط الـ Live Demo المتاح في الأعلى).
+3. **Upload & Explore:** Upload the downloaded CSV file into the dashboard, and watch the system automatically identify metrics, build visualizations, and generate Pareto-based automated insights!
+   (**ارفع واكتشف:** ارفع ملف الـ CSV الذي قمت بتحميله، وشاهد كيف يتعرف النظام تلقائياً على المقاييس، ويبني الرسوم البيانية، ويولد التحليلات الذكية فوراً!).
 
 ---
 
@@ -47,7 +60,7 @@ This dashboard is highly versatile and optimally tracks **Transactional & Operat
 
 1. **Clone the repository / استنساخ المستودع:**
 ```bash
-git clone https://github.com/yara-lab94/Executive-BI-Data-Analytics.git
+git clone [https://github.com/yara-lab94/Executive-BI-Data-Analytics.git](https://github.com/yara-lab94/Executive-BI-Data-Analytics.git)
 cd Executive-BI-Data-Analytics
 
  ```
