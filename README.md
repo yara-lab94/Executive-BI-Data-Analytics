@@ -59,7 +59,7 @@ pip install streamlit pandas matplotlib seaborn
  Run the application / تشغيل المنصة:
 ```bash
 streamlit run app1.py
- ح
+ 
  ```
 **🤝 Contribution & License / المساهمة والترخيص
 Feel free to fork this repository, report issues, or submit pull requests to enhance the BI analytics engine.
