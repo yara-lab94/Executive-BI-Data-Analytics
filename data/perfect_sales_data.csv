@@ -1,0 +1,21 @@
+Month,Product,Region,Sales_USD,Units_Sold
+April,Charge Controller,South Region,3956,33
+May,PV Panels,North Region,2581,47
+March,Solar Inverter,West Region,4324,44
+May,Deep Cycle Battery,West Region,5485,58
+May,Solar Inverter,West Region,6713,78
+February,Solar Inverter,East Region,1255,71
+March,PV Panels,West Region,5804,69
+March,Charge Controller,West Region,2838,59
+March,PV Panels,West Region,2944,18
+May,PV Panels,South Region,1009,43
+April,PV Panels,East Region,3871,44
+March,PV Panels,West Region,1797,10
+June,Deep Cycle Battery,North Region,5972,49
+May,Charge Controller,North Region,6124,73
+February,Solar Inverter,North Region,2015,31
+April,Solar Inverter,East Region,2824,69
+June,Charge Controller,East Region,5469,73
+June,Solar Inverter,North Region,4136,20
+February,Charge Controller,West Region,3193,23
+April,Solar Inverter,East Region,1223,69
